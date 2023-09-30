@@ -24,7 +24,12 @@
                     following options:</cmd>
                 <info>
                     <ul id="ul_ov3_yw4_yyb">
-                        <li/>
+                        <li><b>Pre-Requisites</b>: TestSigma defines prerequisites for test cases.
+                            It specify any necessary conditions or steps to be completed before
+                            executing a test case, ensuring the test enviromnent is properly set
+                            up,</li>
+                        <li><b>Test Data Profile</b>: If you use parameter type test data in your
+                            test steps, refer to and select it in the test case.</li>
                     </ul>
                 </info>
             </step>
