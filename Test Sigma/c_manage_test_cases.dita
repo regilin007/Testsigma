@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_manage_test_cases">
+    <title>Manage Test Cases</title>
+    <conbody>
+        <p>Testsigma provides a comprehensive and user-friendly solution for efficiently creating,
+            organising, executing test cases. It enables teams to collaborate efficiently, ensures
+            maximum test coverage, and provides valuable insights into the testing work flow. Users
+            can create test cases using either the Test Sigma Recorder or by manually writing steps
+            using NLP. This document gives users step by step on how to manage test case in Test
+            sigma to optimise the testing process.</p>
+        <ol id="steps_b3v_lfg_yyb">
+            <li> Navigate to <uicontrol>Create Tests>Test Cases</uicontrol> in the left side navbar.
+                Click the <uicontrol>Create Test Case</uicontrol> button in the top right corner of
+                the <uicontrol>Test Case List</uicontrol> page to create a test case. </li>
+            <li> Replace <b>Untitled</b> in the top left corner of the screen on the <b>Test Case
+                    Details</b> page with a <b>Title </b> for the title case. </li>
+            <li> You can create the test steps for your test case using either of the following
+                methods: <ol id="substeps_pfp_x3g_yyb">
+                    <li> Write Test Steps Manually using NLPs by clicking <uicontrol>Add new
+                            step</uicontrol>
+                    </li>
+                    <li> Use Testsigma <b>Recorder</b> to Record steps. </li>
+                </ol>
+                <itemgroup/>
+            </li>
+        </ol>
+        <section id="section_b15_dj4_yyb">
+            <title>Prerequisites</title>
+            <p>Ensure you create a Project before creating or editing test cases in testsigma.</p>
+        </section>
+    </conbody>
+</concept>

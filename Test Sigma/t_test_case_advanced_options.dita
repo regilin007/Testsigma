@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_test_case_advanced_options">
+    <title>Test Case-Advanced Options</title>
+    <taskbody>
+        <context>
+            <p>Use the right-side navbar on the <b>Test Case Details</b> page to access Advanced
+                Options for better management and grouping of test cases while creating <b>Test
+                    Suites</b> and <b>Test Plans</b> and to improve understanding of test
+                coverage.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click <uicontrol>Test Case Info </uicontrol> in the right-side navbar. You can
+                    update Test Case Name and view description from there and view information about
+                    the Test Cases creation and last update.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Ad-Hoc Runs</b> in the right-side navbar. This will enable you to view
+                    the history and details of Ad-Hoc runs results for the Test Case.</cmd>
+            </step>
+            <step>
+                <cmd>Click <b>Test Case Settings</b> in the right-side navbar, and configure the
+                    following options:</cmd>
+                <info>
+                    <ul id="ul_ov3_yw4_yyb">
+                        <li/>
+                    </ul>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

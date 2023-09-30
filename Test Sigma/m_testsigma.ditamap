@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>testsigma</title>
+    <topicref href="c_getting_started.dita"/>
+    <topicref href="c_test_cases.dita">
+        <topicref href="manage_test_cases.dita">
+            <topicref href="c_manage_test_cases.dita">
+                <topicref href="t_create_test_case.dita"/>
+                <topicref href="t_test_case_advanced_options.dita"/>
+            </topicref>
+            <topicref href="c_test_case_filters.dita"/>
+        </topicref>
+    </topicref>
+</map>

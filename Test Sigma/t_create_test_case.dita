@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_create_test_case">
+    <title>Create Test Case</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd> Navigate to <uicontrol>Create Tests>Test Cases</uicontrol> in the left side
+                    navbar. Click the <uicontrol>Create Test Case</uicontrol> button in the top
+                    right corner of the <uicontrol>Test Case List</uicontrol> page to create a test
+                    case. </cmd>
+            </step>
+            <step>
+                <cmd>Replace <b>Untitled</b> in the top left corner of the screen on the <b>Test
+                        Case Details</b> page with a <b>Title </b> for the title case. </cmd>
+            </step>
+            <step>
+                <cmd> You can create the test steps for your test case using either of the following
+                    methods: </cmd>
+                <substeps id="substeps_wdd_1l4_yyb">
+                    <substep>
+                        <cmd> Write Test Steps Manually using NLPs by clicking <uicontrol>Add new
+                                step</uicontrol>
+                        </cmd>
+                    </substep>
+                </substeps>
+                <substeps id="substeps_ysn_cl4_yyb">
+                    <substep>
+                        <cmd> Use Testsigma <b>Recorder</b> to Record steps. </cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <note id="note_t5l_vjg_yyb">You should install the Testsigma test step recorder
+                        extention</note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
