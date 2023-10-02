@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_benefits_of_visual_testing">
+    <title>Benefits of Visual Testing</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_sz5_xcd_zyb">
+            <title/>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="3.17*"/>
+                <thead>
+                    <row>
+                        <entry>Benefits</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry><b>Early Detection of Visual Defects</b></entry>
+                        <entry>You can identify visual regression and inconsistencies early in the
+                            development cycle by using Visual Testing, which prevents them from
+                            reaching production.</entry>
+                    </row>
+                    <row>
+                        <entry><b>Time Savings</b></entry>
+                        <entry>Automating visual comparisions saves time and effort by eliminating
+                            the need for manual verfication.</entry>
+                    </row>
+                    <row>
+                        <entry><b>Cross-Platform Validation</b></entry>
+                        <entry>Visual testing ensures the different devices, browsers, and operating
+                            systems display your applications visual consistency.</entry>
+                    </row>
+                    <row>
+                        <entry><b>Improved User Experiance</b></entry>
+                        <entry>You enhance customer satisfaction by catching visual defects and
+                            providing a consistent and polished user experience.</entry>
+                    </row>
+                    <row>
+                        <entry><b>Regression Testing Efficiency</b></entry>
+                        <entry>Regression testing includes Visual Testing, ensuring UI changes do
+                            not impact existing functionality</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

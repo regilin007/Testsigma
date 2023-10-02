@@ -12,4 +12,7 @@
             <topicref href="c_test_case_filters.dita"/>
         </topicref>
     </topicref>
+    <topicref href="c_visual_testing.dita">
+        <topicref href="r_benefits_of_visual_testing.dita"/>
+    </topicref>
 </map>
